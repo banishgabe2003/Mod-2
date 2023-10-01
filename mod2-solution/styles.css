@@ -1,6 +1,6 @@
 * {
 	box-sizing: border-box;
-	font-family: cursive;
+	font-family: cursive, arial;
 }
 
 .row {
@@ -42,7 +42,7 @@
 h1 {
 	text-align: center;
 	padding-bottom: 6%;
-	font-family: cursive;
+	font-family: cursive, arial;
 }
 
 p {
@@ -52,7 +52,7 @@ p {
   height: 220px;
   margin-right: auto;
   margin-left: auto;
-  padding-top: 9%;
+  padding-top: 10%;
   padding-left: 3%;
   padding-right: 3%;
   color: black;
